@@ -1,0 +1,22 @@
+p{
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.our{
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.your{
+  color: rgb(160, 160, 160);
+}
+.yes{
+  background-color:  rgb(33, 33, 33);
+  width: 360px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
